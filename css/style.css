@@ -33,19 +33,20 @@ a {
 }
 
 .botoes {
+    background-color: #2010ac;
     align-items: right;
     justify-content: right ;
     padding-left: 800px;
     padding-top: 40px;
     display: flex;
-    color: rgb(5, 5, 105);
+    color: rgb(255, 255, 255);
     margin-left: 40px;
     cursor: pointer;
 
 }
 
 .botoes:hover {
-    color: #2010ac;
+    background-color: #0888d1;
 }
 .corpo {
     background-color: #4ba494;
