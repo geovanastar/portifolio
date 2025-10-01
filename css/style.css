@@ -40,9 +40,13 @@ a {
     display: flex;
     color: rgb(5, 5, 105);
     margin-left: 40px;
+    cursor: pointer;
 
 }
 
+.botoes:hover {
+    color: #2010ac;
+}
 .corpo {
     background-color: #4ba494;
     height: 500px;
