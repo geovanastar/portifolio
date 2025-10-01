@@ -48,6 +48,8 @@ button:hover {
     justify-content: right ;
     padding-left: 800px;
     padding-top: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
     display: flex;
     margin-left: 40px;
 
