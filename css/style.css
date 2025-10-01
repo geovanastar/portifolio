@@ -11,6 +11,17 @@ a {
     color: rgb(5, 5, 105);
 }
 
+button {
+    cursor: pointer;
+    background-color: #2010ac;
+    width: 30px;
+    height: 20px;
+}
+
+button:hover {
+    background-color: #0888d1;
+}
+
 .menu-principal {
 
     background-color: rgb(126, 211, 184);
@@ -42,16 +53,6 @@ a {
 
 }
 
-button {
-    cursor: pointer;
-    background-color: #2010ac;
-    width: 30px;
-    height: 20px;
-}
-
-button:hover {
-    background-color: #0888d1;
-}
 .corpo {
     background-color: #4ba494;
     height: 500px;
